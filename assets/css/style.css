@@ -1,0 +1,62 @@
+.calculator{
+	width: 20em;
+}
+
+.screen{
+	margin-top: 3em; 
+	height: 10em;
+	width: 20em;
+}
+
+.button{
+	width: 6em;
+	border-style: solid;
+    border-width: 1px;
+	height: 6em;
+	border-color: #d3d3d3;
+	background-color: #ffffff; 
+	float: left;
+	font-weight: bold;
+}
+
+#answer{
+	text-align: right;
+	width: 75%;
+	float: right;
+	color: #FFA500;
+	font-size: 150%;
+}
+
+#sum{
+	text-align: right;
+	height: 5em;
+	color: #d3d3d3;
+}
+
+.equals{
+	background-color: #20B2AA;
+	color: #ffffff;
+}
+
+.plus{
+	color: #800080;
+}
+
+.minus{
+	color: #FFA500;
+}
+
+.multiply{
+	color: #0000FF;
+}
+
+.divideby{
+	color: #008000;
+}
+
+.equalssign{
+	margin-left: 1em;
+	margin-right: 0px;
+	width: 10%;
+	float: left;
+}
